@@ -341,3 +341,17 @@ footer.second p, .second a {
   }
 
 }
+
+footer p {
+  color: #ffffff;
+  font-size: 150%;
+  line-height: 155%;
+  padding: 3%;
+  text-indent: 2%;
+  text-align: justify;
+}
+
+footer img{
+  margin: 10px;
+  color: #6991AC;
+}
